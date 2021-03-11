@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Shape324\bin\Debug\Shape324.exe.config
+C:\Users\DELL\source\repos\Shape324\bin\Debug\Shape324.exe
+C:\Users\DELL\source\repos\Shape324\bin\Debug\Shape324.pdb
+C:\Users\DELL\source\repos\Shape324\obj\Debug\Shape324.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Shape324\obj\Debug\Shape324.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Shape324\obj\Debug\Shape324.exe
+C:\Users\DELL\source\repos\Shape324\obj\Debug\Shape324.pdb
